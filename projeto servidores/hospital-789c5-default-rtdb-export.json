@@ -1,0 +1,88 @@
+{
+  "especialistas": [
+    null,
+    {
+      "especialidade": "Médico Ginecologista",
+      "medico": "Mateus"
+    },
+    {
+      "especialidade": "Cardiologia",
+      "medico": "Gabriel"
+    },
+    {
+      "especialidade": "Cirurgia Plástica",
+      "medico": "José"
+    },
+    {
+      "especialidade": "Neurocirurgião",
+      "medico": "Maria"
+    },
+    {
+      "especialidade": "Ortopedia e Traumatologia",
+      "medico": "Erika"
+    },
+    {
+      "especialidade": "Psiquiatria",
+      "medico": "Keuri"
+    },
+    {
+      "especialidade": "Urologia",
+      "medico": "Gabryele"
+    },
+    {
+      "especialidade": "Dermatologia",
+      "medico": "Helen"
+    },
+    {
+      "especialidade": "Gastroenterologia",
+      "medico": "David"
+    },
+    {
+      "especialidade": "Oftalmologia",
+      "medico": "Natália"
+    }
+  ],
+  "exames": [
+    null,
+    {
+      "exame": "Hemograma",
+      "valor": "180,00"
+    },
+    {
+      "exame": "Glicemia em jejum",
+      "valor": "100,00"
+    },
+    {
+      "exame": "Colesterol e Triglicerídeos",
+      "valor": "150,00"
+    },
+    {
+      "exame": "Ureia e Creatina",
+      "valor": "200,00"
+    },
+    {
+      "exame": "Ácido Úrico",
+      "valor": "250,00"
+    },
+    {
+      "exame": "Exames de urina",
+      "valor": "80,00"
+    },
+    {
+      "exame": "Eletrocardiograma",
+      "valor": "300,00"
+    },
+    {
+      "exame": "Teste Ergométrico",
+      "valor": "250,00"
+    },
+    {
+      "exame": "Mamografia",
+      "valor": "100,00"
+    },
+    {
+      "exame": "Toque retal",
+      "valor": "160,00"
+    }
+  ]
+}
